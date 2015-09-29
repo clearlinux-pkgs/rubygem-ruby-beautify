@@ -4,7 +4,7 @@
 #
 Name     : rubygem-ruby-beautify
 Version  : 0.92.2
-Release  : 1
+Release  : 2
 URL      : https://rubygems.org/downloads/ruby-beautify-0.92.2.gem
 Source0  : https://rubygems.org/downloads/ruby-beautify-0.92.2.gem
 Summary  : No detailed summary available
